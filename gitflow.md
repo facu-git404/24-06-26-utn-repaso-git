@@ -11,3 +11,10 @@ Nunca trabajaremos en la rama main para hacer cambios, ya que esto puede generar
 Para crear la rama de desarrollo debemos usar este comando:
 
 git checkout -b <nombre-nueva-rama>
+
+## Development es una rama compartida
+
+Como ambos no pueden trabajar desde development, van a trabajar en ramas que salgan de esta
+
+“feature-login-form” para el trabajador 1
+“feature-singup-form” para el trabajador 2.
