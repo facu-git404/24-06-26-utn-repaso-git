@@ -25,3 +25,7 @@ Es la carpeta del proyecto
 Depende, si es tu primera vez pusheando: git push -u origin main
 
 Pero si ya existe la main: git push
+
+## ¿Que es el Source Control?
+
+Es una forma de aplicar comandos basicos de git sin escribir codigo, como "git add ."
