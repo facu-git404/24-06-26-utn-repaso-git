@@ -29,3 +29,23 @@ Pero si ya existe la main: git push
 ## ¿Que es el Source Control?
 
 Es una forma de aplicar comandos basicos de git sin escribir codigo, como "git add ."
+
+## ¿Como desplegar la pagina?
+
+Tenes que tener el github en publico e ir a settings > pages, luego Branches, y por ultimo donde dice none elegimos la opcion "main" y podremos ver nuestra pagina en github.
+Si tenemos el github en privado vamos a requerrir servicios de pago como:
+
+github pages
+vercel
+railway
+hostinger
+cloudways
+
+hay opciones mas complejas que sirven como nube como:
+
+AWS
+GCP
+
+y la mas compleja pero valida es de forma local:
+
+VPS
